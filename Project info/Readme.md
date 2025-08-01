@@ -1,7 +1,7 @@
 ## How I created a Fitness Buddy- AI Coach using IBM Watson Cloud ##
 
-1.Defined the Concept & Problem
-  Identified the need for a personalized AI fitness assistant that offers workouts, meal ideas, and motivation based on user goals and preferences.
+##1.Defined the Concept & Problem
+  Identified the need for a personalized AI fitness assistant that offers workouts, meal ideas, and motivation based on user goals and     preferences.
 2.Set Up IBM Cloud Lite Environment
   Created a free IBM Cloud Lite account and configured the Watsonx.ai Agent Lab workspace for development.
 3.Designed the AI Agent in Watsonx
@@ -18,5 +18,5 @@
   Enabled image-based prompts for meal/nutrition analysis where supported.
 7.Prepared Demo & Documentation
   Created a live demo in Watsonx Preview showcasing workouts, meals, and motivational responses.
-  Documented the entire process with screenshots, results, and future scope for improvements.
+  Documented the entire process with screenshots, results, and future scope for improvements. ##
 
