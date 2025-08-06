@@ -1,12 +1,12 @@
-# 🤖 IBM SkillsBuild Internship – AI & Cloud Technologies
+# IBM SkillsBuild Internship – AI & Cloud Technologies
 
 Welcome to the repository showcasing my successful completion of the **IBM SkillsBuild 4-week Internship on AI & Cloud Technologies**, powered by **IBM Cloud** and supported by **Edunet Foundation** and **AICTE**.
 
 This repository contains:
-- ✅ A summary of my internship learnings
-- 🧠 My final capstone project: **Fitness Buddy – AI Health Coach**
-- 🧪 Code, system architecture, and deployment approach
-- 🎯 My experience with IBM tools like Watsonx, Agentic AI and RAG, Auto AI, and Cloud Lite
+- A summary of my internship learnings
+- My final capstone project: **Fitness Buddy – AI Health Coach**
+- Code, system architecture, and deployment approach
+- My experience with IBM tools like Watsonx, Agentic AI and RAG, Auto AI, and Cloud Lite
 
 ---
 ## 📌 Internship Overview
@@ -33,7 +33,7 @@ This repository contains:
 
 A **smart AI-powered health coach** designed to help users with fitness, diet, and motivation using IBM's cutting-edge AI tools.
 
-### 🔍 Problem Statement
+### Problem Statement
 
 Many people struggle with:
 - Choosing workouts for their fitness level  
@@ -44,7 +44,7 @@ They need a **free, personalized, always-accessible AI fitness coach**.
 
 ---
 
-## ✅ Solution Overview
+## Solution Overview
 
 **Fitness Buddy** offers:
 
